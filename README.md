@@ -47,7 +47,7 @@ DATABASES = {
 
 ---
 
-4. docker-compose run --rm web　python manage.py startapp (アプリ名)
+4. docker-compose run --rm web python manage.py startapp (アプリ名)
 
 5. INSTALLED_APPSにアプリ名を追加、'bootstrap4'も追加しておく
 
